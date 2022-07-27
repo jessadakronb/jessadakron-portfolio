@@ -23,7 +23,7 @@
 
       <div class="wrapper">
         <div class="icon logo">
-          <div class="tooltip">Vue.js</div>
+          <div class="tooltip">JavaScript</div>
           <span> <i class="fab fa-js fa-lg"></i></span>
         </div>
       </div>

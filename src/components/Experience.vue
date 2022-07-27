@@ -90,13 +90,11 @@
         <br />
         <li>
           <div class="content align-left">
-            <a href="https://seclogic.io" target="_blank">
-              <h3>Integra8t</h3>
-              <h5>Software Developer</h5>
-              <div class="grey">March 2022 - Present</div>
-              <br />
-              <p>- Develop Web Application E-commerce Using Vuejs and Nuxtjs</p>
-            </a>
+            <h3>Integra8t</h3>
+            <h5>Software Developer</h5>
+            <div class="grey">March 2022 - Present</div>
+            <br />
+            <p>- Develop Web Application E-commerce Using Vuejs and Nuxtjs</p>
           </div>
         </li>
       </ul>
@@ -161,7 +159,6 @@ a {
   font-weight: 500;
   font-size: 1.5rem;
   background: -webkit-linear-gradient(45deg, #09009f, #00ff95 80%);
-
   border-radius: 16px;
   padding: 0.5rem;
 }

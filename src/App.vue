@@ -8,6 +8,8 @@
       <experience />
       <horizontal-divider />
       <skills />
+      <horizontal-divider />
+      <footers />
     </div>
   </div>
 </template>
@@ -18,6 +20,7 @@ import HorizontalDivider from "./components/HorizontalDivider.vue";
 import Profile from "./components/Profile.vue";
 import Experience from "./components/Experience.vue";
 import Skills from "./components/Skills.vue";
+import Footers from "./components/Footers.vue";
 
 export default {
   name: "App",
@@ -28,6 +31,8 @@ export default {
     Profile,
     Experience,
     Skills,
+    // eslint-disable-next-line vue/no-unused-components
+    Footers,
   },
 };
 </script>
