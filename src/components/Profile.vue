@@ -42,7 +42,7 @@
           designing using basic figma.I am an avid book reader and music
           listener.
         </p>
-        <p>My favourite Anime is <span class="color">One Piece</span>.</p>
+        <p>My favourite anime is <span class="color">One Piece</span>.</p>
       </div>
       <div class="contact">
         <a
