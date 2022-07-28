@@ -1,7 +1,11 @@
 <template>
   <div class="hero">
     <div class="image-holder">
-      <img src="../assets/my-pic.jpg" alt="Image of Vishesh Bansal" />
+      <img
+        src="../assets/my-pic.jpg"
+        alt="Image of Jessadakron"
+        lazy="loading"
+      />
     </div>
     <div class="text">
       <div class="top-text">
