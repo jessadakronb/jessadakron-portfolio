@@ -47,7 +47,7 @@ export default {
   margin-top: 60px;
 }
 body {
-  background-color: #1a202c;
+  background-color: #071124;
   font-family: "canada-type-gibson";
   overflow-x: hidden;
 }

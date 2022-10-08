@@ -6,6 +6,9 @@
         alt="Image of Jessadakron"
         lazy="loading"
       />
+      <!-- <video width="160" muted autoplay loop id="video-container">
+        <source src="../assets/emoji.mp4" type="video/mp4" />
+      </video> -->
     </div>
     <div class="text">
       <div class="top-text">
@@ -42,17 +45,14 @@
         </p>
         <p class="b-margin">
           I have experience of
-          <span class="green-text">Web Frontend Development</span> develop and
+          <span class="custom-text">Web Frontend Development</span> develop and
           designing using basic figma.I am an avid book reader and music
           listener.
         </p>
         <p>My favourite anime is <span class="color">One Piece</span>.</p>
       </div>
       <div class="contact">
-        <a
-          href="https://drive.google.com/file/d/1kAHq-2Ek_vMcYZvBVVC0N20ltSLQN6qw/view?usp=sharing"
-          target="_blank"
-        >
+        <a href="./pdf/Jessadakron-resume.pdf" target="_blank">
           <div class="contact-me">Resume</div>
         </a>
       </div>
@@ -78,6 +78,11 @@ export default {
   name: "Profile",
   components: {
     VueTyper,
+  },
+  data() {
+    return {
+      // pdf: "./assets/pdf/Jessadakron-resume.pdf",
+    };
   },
 };
 </script>
@@ -140,8 +145,8 @@ li:hover {
   transition: siz;
 }
 
-.green-text {
-  background: -webkit-linear-gradient(rgb(216, 215, 204), rgb(44, 42, 42));
+.custom-text {
+  background: -webkit-linear-gradient(rgb(11, 173, 237), rgb(252, 250, 250));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -168,7 +173,7 @@ img {
 }
 
 .image-holder {
-  height: 125px;
+  height: 100px;
 }
 
 .hero {
@@ -237,7 +242,10 @@ p {
 .fa-linkedin {
   color: white;
 }
-
+a {
+  pointer-events: none;
+  cursor: default;
+}
 @media screen and (max-width: 1258px) {
   .hero {
     flex-direction: column;
