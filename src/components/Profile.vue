@@ -57,7 +57,7 @@
         </a>
       </div>
       <br />
-      <p class="center">
+      <!-- <p class="center">
         View some of my projects
         <a
           rel="noopener noreferrer"
@@ -66,7 +66,7 @@
           style="margin-left: 1px; margin-right: 1px"
           >here</a
         >.
-      </p>
+      </p> -->
     </div>
   </div>
 </template>
