@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>My Experience</h2>
+    <h2>Experience</h2>
     <div class="timeline">
       <div class="year-container">
         <span class="year">2020</span>
@@ -36,22 +36,20 @@
         <br />
         <li>
           <div class="content align-left">
-            
-              <h3>A-HOST</h3>
-              <h5>Software Developer</h5>
-              <div class="grey">January 2021 - December 2021</div>
-              <br />
-              <p>
-                - Trained and supervised new staff members and co-op students.
-                <br /><br /><br />
-                - Develop web application for show employee expenses in graph
-                using Vuejs and nuxtjs
-                <br /><br /><br />
-                - Design a database to suit the work of the web application
-                Proof of concept Microsoft power platforms and DevOps such as
-                Power app, Power Automate, and Azure DevOps.
-              </p>
-            </a>
+            <h3>A-HOST</h3>
+            <h5>Software Developer</h5>
+            <div class="grey">January 2021 - December 2021</div>
+            <br />
+            <p>
+              - Trained and supervised new staff members and co-op students.
+              <br /><br /><br />
+              - Develop web application for show employee expenses in graph
+              using Vuejs and nuxtjs
+              <br /><br /><br />
+              - Design a database to suit the work of the web application Proof
+              of concept Microsoft power platforms and DevOps such as Power app,
+              Power Automate, and Azure DevOps.
+            </p>
           </div>
         </li>
       </ul>
@@ -64,19 +62,18 @@
         <br />
         <li>
           <div class="content align-left">
-              <h3>A-HOST</h3>
-              <h5>Software Developer</h5>
-              <div class="grey">January 2022 - March 2022</div>
-              <br />
-              <p>
-                - Develop ERP report for customer using Oracle e business suite
-                and Sql developer
-                <br /><br /><br />
-                - Develop API Management for interface data from third party to
-                destination and can save data into database
-                <br /><br /><br />
-              </p>
-            </a>
+            <h3>A-HOST</h3>
+            <h5>Software Developer</h5>
+            <div class="grey">January 2022 - March 2022</div>
+            <br />
+            <p>
+              - Develop ERP report for customer using Oracle e business suite
+              and Sql developer
+              <br /><br /><br />
+              - Develop API Management for interface data from third party to
+              destination and can save data into database
+              <br /><br /><br />
+            </p>
           </div>
         </li>
       </ul>
