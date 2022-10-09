@@ -36,7 +36,7 @@
         <br />
         <li>
           <div class="content align-left">
-            <a href="https://seclogic.io" target="_blank">
+            
               <h3>A-HOST</h3>
               <h5>Software Developer</h5>
               <div class="grey">January 2021 - December 2021</div>
@@ -64,7 +64,6 @@
         <br />
         <li>
           <div class="content align-left">
-            <a href="https://seclogic.io" target="_blank">
               <h3>A-HOST</h3>
               <h5>Software Developer</h5>
               <div class="grey">January 2022 - March 2022</div>
